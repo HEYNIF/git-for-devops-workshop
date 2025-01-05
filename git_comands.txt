@@ -1,0 +1,15 @@
+git push origin main --force\n
+  996  git log --stat\n
+  997  git filter-repo --path git_comand.txt --invert-paths --force\n
+  998  git log --stat\n
+  999  git status
+ 1000  git push origin main --force\n
+ 1001  git remote -v
+ 1002  git remote set-url origin https tok
+ 1003  git remote add origin https tok
+ 1004  git remote -v
+ 1005  git remote set-url origin https tok
+ 1006  git remote set-url origin https tok
+ 1007  git push origin main --force\n
+ 1008  git staus
+ 1009  git status
