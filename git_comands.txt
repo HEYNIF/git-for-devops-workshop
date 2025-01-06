@@ -13,3 +13,4 @@ git push origin main --force\n
  1007  git push origin main --force\n
  1008  git staus
  1009  git status
+clear
